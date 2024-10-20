@@ -18,9 +18,12 @@ There are no dependencies since project is created on pure JavaScript so fork th
 
 ## How to use the app: -
 1.Enter the valid city name all around the world (Ex.  Mumbai, Pune ,New York ,Delhi ,Goa).
+
 2.Then click on the search button you will get all the information you need and the pictures change according to the data such as sunny, winter or according to the wind speed or if there is mist in the weather.
 
 Github link- https://github.com/Sumedh5798/Zeotap_assignment_2/tree/master
+
 Working link- https://sumedh5798.github.io/Zeotap_assignment_2/
+
 Go to working link you will able to see the project.
 
