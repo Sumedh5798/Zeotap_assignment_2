@@ -8,11 +8,11 @@ There are no dependencies since project is created on pure JavaScript so fork th
 
 ## Pictures of project: -
 
- 
- 
-
+ ![image](https://github.com/user-attachments/assets/dc831532-a29b-4d28-b6a9-4c2a3fc3856a)
 
  
+![image](https://github.com/user-attachments/assets/7fbc52a4-1585-4a46-864e-583085c18568)
+
 
 
 
