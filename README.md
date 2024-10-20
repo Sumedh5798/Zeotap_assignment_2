@@ -21,7 +21,7 @@ There are no dependencies since project is created on pure JavaScript so fork th
 
 2.Then click on the search button you will get all the information you need and the pictures change according to the data such as sunny, winter or according to the wind speed or if there is mist in the weather.
 
-Github link- https://github.com/Sumedh5798/Zeotap_assignment_2/tree/master
+GitHub link- https://github.com/Sumedh5798/Zeotap_assignment_2/tree/master
 
 Working link- https://sumedh5798.github.io/Zeotap_assignment_2/
 
